@@ -1,0 +1,6 @@
+module Pods_EatSmart {
+  umbrella header "Pods-EatSmart-umbrella.h"
+
+  export *
+  module * { export * }
+}
